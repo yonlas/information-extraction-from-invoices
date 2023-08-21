@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.bak
+*.swp
+.DS_Store
